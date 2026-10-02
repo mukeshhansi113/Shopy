@@ -1,0 +1,6 @@
+{
+  "name": "Shopy",
+  "description": "Modern online shopping marketplace with customer shopping, seller studio, AI product photography, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
